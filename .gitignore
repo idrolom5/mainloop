@@ -1,0 +1,10 @@
+# NPM
+node_modules/
+
+# Windows
+Desktop.ini
+
+# JetBrains IDEs
+*.iml
+.idea/
+.webstorm/
